@@ -1,0 +1,1 @@
+alert('Click "OK" or any other button that is located directly below this.');
